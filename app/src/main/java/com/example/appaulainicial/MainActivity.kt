@@ -76,7 +76,7 @@ fun App(){
                 horizontalArrangement = Arrangement.Center
             ){
                 Text(
-                    text = "Título da notícia"
+                    text = "Receba minha atividade atrasada!"
                 )
             }
             Row(
@@ -114,7 +114,9 @@ fun App(){
                 horizontalArrangement = Arrangement.Center
             ){
                 Text(
-                    text = "Título da notícia"
+                    text = "Receba minha atividade atrasada!",
+                    fontWeight = FontWeight.Bold,
+                    fontSize = 20.sp
                 )
             }
             Row(
